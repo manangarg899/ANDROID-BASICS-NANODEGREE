@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_folder"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#002080"
+    android:padding="16dp"
+    tools:context="com.example.manan.musicplayer.FolderActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This is the folder page where every song is divided into folders as they are in storage like downloads etc.."
+        android:textSize="18sp" />
+</RelativeLayout>
